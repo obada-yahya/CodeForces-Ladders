@@ -25,11 +25,11 @@
 | 23 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 |  &#x2611; |
 | 24 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 |  |
 | 25 | [Edgy Trees](https://codeforces.com/problemset/problem/1139/C) | 1500 |  |
-| 26 | [Vladik and fractions](https://codeforces.com/problemset/problem/743/C) | 1500 |  |
+| 26 | [Vladik and fractions](https://codeforces.com/problemset/problem/743/C) | 1500 | &#x2611; |
 | 27 | [Coffee Break](https://codeforces.com/problemset/problem/1041/C) | 1500 | &#x2611; |
 | 28 | [The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C) | 1500 |  |
 | 29 | [Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C) | 1500 |  |
-| 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 |  |
+| 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 | &#x2611; |
 | 31 | [Solution for Cube](https://codeforces.com/problemset/problem/887/C) | 1500 |  |
 | 32 | [Phone Numbers](https://codeforces.com/problemset/problem/940/C) | 1500 |  |
 | 33 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 |  |
